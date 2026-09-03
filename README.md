@@ -128,9 +128,6 @@ Relationship Manager structure, coverage, seniority and AUM target information.
 The `meridian_bi_sql_dataset.xlsx` workbook is the raw dataset containing the dimension tables. It is retained as a raw data deliverable rather than being reformatted as an analyst workbook.
 
 ## Dashboard Pages
-🔗 **View the published dashboard**
-
-[Open Meridian Fund Partners S.A. - AUM & Revenue Analytics Dashboard](https://frelotraders-my.sharepoint.com/:u:/g/personal/joylorna_frelotraders_onmicrosoft_com/IQB9T_JnjoypT6mWzpxhq8WhAQPOC_1bBCVloizjIBn8Oso?e=Kw6O7X)
 
 ### 1. Executive AUM & Revenue Summary
 
